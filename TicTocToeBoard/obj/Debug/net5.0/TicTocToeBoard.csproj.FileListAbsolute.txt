@@ -1,0 +1,16 @@
+C:\Users\Rakesh\source\repos\TicTocToeBoard\TicTocToeBoard\bin\Debug\net5.0\TicTocToeBoard.exe
+C:\Users\Rakesh\source\repos\TicTocToeBoard\TicTocToeBoard\bin\Debug\net5.0\TicTocToeBoard.deps.json
+C:\Users\Rakesh\source\repos\TicTocToeBoard\TicTocToeBoard\bin\Debug\net5.0\TicTocToeBoard.runtimeconfig.json
+C:\Users\Rakesh\source\repos\TicTocToeBoard\TicTocToeBoard\bin\Debug\net5.0\TicTocToeBoard.runtimeconfig.dev.json
+C:\Users\Rakesh\source\repos\TicTocToeBoard\TicTocToeBoard\bin\Debug\net5.0\TicTocToeBoard.dll
+C:\Users\Rakesh\source\repos\TicTocToeBoard\TicTocToeBoard\bin\Debug\net5.0\ref\TicTocToeBoard.dll
+C:\Users\Rakesh\source\repos\TicTocToeBoard\TicTocToeBoard\bin\Debug\net5.0\TicTocToeBoard.pdb
+C:\Users\Rakesh\source\repos\TicTocToeBoard\TicTocToeBoard\obj\Debug\net5.0\TicTocToeBoard.csproj.AssemblyReference.cache
+C:\Users\Rakesh\source\repos\TicTocToeBoard\TicTocToeBoard\obj\Debug\net5.0\TicTocToeBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rakesh\source\repos\TicTocToeBoard\TicTocToeBoard\obj\Debug\net5.0\TicTocToeBoard.AssemblyInfoInputs.cache
+C:\Users\Rakesh\source\repos\TicTocToeBoard\TicTocToeBoard\obj\Debug\net5.0\TicTocToeBoard.AssemblyInfo.cs
+C:\Users\Rakesh\source\repos\TicTocToeBoard\TicTocToeBoard\obj\Debug\net5.0\TicTocToeBoard.csproj.CoreCompileInputs.cache
+C:\Users\Rakesh\source\repos\TicTocToeBoard\TicTocToeBoard\obj\Debug\net5.0\TicTocToeBoard.dll
+C:\Users\Rakesh\source\repos\TicTocToeBoard\TicTocToeBoard\obj\Debug\net5.0\ref\TicTocToeBoard.dll
+C:\Users\Rakesh\source\repos\TicTocToeBoard\TicTocToeBoard\obj\Debug\net5.0\TicTocToeBoard.pdb
+C:\Users\Rakesh\source\repos\TicTocToeBoard\TicTocToeBoard\obj\Debug\net5.0\TicTocToeBoard.genruntimeconfig.cache
