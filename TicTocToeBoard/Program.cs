@@ -10,7 +10,7 @@ namespace TicTocToeBoard
             Console.WriteLine("\n Welcome to Tic Tac Toe Game..");
             TicTacToeGame ticTacToeGame = new TicTacToeGame();
             ticTacToeGame.createBoard();
-            ticTacToeGame.chooseLetter();
+          //  ticTacToeGame.chooseLetter();
 
         }
     }

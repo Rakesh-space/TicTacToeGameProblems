@@ -18,7 +18,7 @@ namespace TicTocToeBoard
             }
         }
 
-        public void chooseLetter()
+    /*    public void chooseLetter()
         {
             Console.WriteLine("\n Enter your letter for game");
             char playerletter = Convert.ToChar(Console.ReadLine());
@@ -28,6 +28,6 @@ namespace TicTocToeBoard
             char compuetLetter = 'o';
             Console.WriteLine("the computer letter is " + compuetLetter);
 
-        }
+        }*/
     }
 }
